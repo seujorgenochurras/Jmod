@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "jmod:block/riaxo_planks",
+    "top": "jmod:block/riaxo_planks",
+    "side": "jmod:block/riaxo_planks"
+  }
+}

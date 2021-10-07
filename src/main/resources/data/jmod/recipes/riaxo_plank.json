@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jmod:riaxo_log"
+    }
+  ],
+  "result": {
+    "item": "jmod:riaxo_planks",
+    "count": 4
+  }
+}

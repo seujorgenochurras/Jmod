@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "jmod:riaxo_nugget"
+    }
+    },
+    "result": {
+      "item": "jmod:riaxo_ingot"
+
+    }
+
+}

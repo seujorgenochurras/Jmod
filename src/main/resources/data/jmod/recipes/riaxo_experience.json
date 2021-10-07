@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "S#S",
+    "SSS"
+  ],
+  "key": {
+    "#": {
+      "item": "jmod:azul"
+    },
+    "S": {
+      "item": "jmod:riaxo_ingot"
+    }
+  },
+
+  "result": {
+    "item": "jmod:riaxo_xp",
+    "count": 1
+  }
+}

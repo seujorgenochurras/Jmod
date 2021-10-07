@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "jmod:block/riaxo_ingot_block"
+  }
+}

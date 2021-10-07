@@ -1,0 +1,8 @@
+{
+
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "jmod:block/riaxo_log_top",
+    "side": "jmod:block/riaxo_log"
+  }
+}

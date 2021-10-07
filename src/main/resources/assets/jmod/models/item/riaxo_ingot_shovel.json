@@ -1,0 +1,6 @@
+{
+  "parent" : "item/handheld",
+  "textures": {
+    "layer0": "jmod:item/riaxo_ingot_shovel"
+  }
+}

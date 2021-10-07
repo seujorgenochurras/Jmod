@@ -1,0 +1,77 @@
+{
+  "item.jmod.raw_riaxo": "Raw Riaxo",
+
+  "item.jmod.azul": "Riaxo Apple",
+
+  "item.jmod.riaxo_nugget": "Riaxo Nuggets",
+
+  "item.jmod.riaxo_ingot": "Riaxo Ingot",
+
+  "item.jmod.riaxo_xp": "Riaxo Experience",
+
+  "item.jmod.riaxo" : "Riaxo",
+
+
+  "item.jmod.firestone" : "Firestone",
+
+  "item.jmod.riaxo_ingot_hoe": "Riaxo Ingot Hoe",
+
+  "item.jmod.riaxo_ingot_sword": "Riaxo Ingot Sword",
+
+  "item.jmod.riaxo_ingot_pickaxe": "Riaxo Ingot Pickaxe",
+
+  "item.jmod.riaxo_ingot_axe": "Riaxo Ingot Axe",
+
+  "item.jmod.riaxo_ingot_head": "Riaxo Ingot Helmet",
+
+  "item.jmod.riaxo_ingot_chest": "Riaxo Ingot Chestplate",
+
+  "item.jmod.riaxo_ingot_legs": "Riaxo Ingot Leggings",
+
+  "item.jmod.riaxo_ingot_boots": "Riaxo Ingot Boots",
+
+
+
+
+
+
+  "tooltip.jmod.firestone" : "Segure \u00A7eSHIFT\u00A7r para saber de tudo",
+
+  "tooltip.jmod.firestone_shift" :"MATHEUS É UMA PUTAAAAAAAAAAAAAAA",
+
+
+
+
+
+
+  "block.jmod.riaxo_ore": "Riaxo Ore",
+
+  "block.jmod.riaxo_planks_button": "Riaxo Planks Button",
+
+  "block.jmod.riaxo_planks_pressure_plate": "Riaxo Planks Pressure Plate",
+
+  "block.jmod.riaxo_planks": "Riaxo Planks",
+
+  "block.jmod.riaxo_ice": "Riaxo Ice",
+
+  "block.jmod.riaxo_planks_slab": "Riaxo Planks Slab",
+
+  "block.jmod.riaxo_planks_fence_gate": "Riaxo Planks Fence Gate",
+
+  "block.jmod.riaxo_planks_fence": "Riaxo Planks Fence ",
+
+  "block.jmod.riaxo_planks_stairs" : "Riaxo Planks Stairs",
+
+  "block.jmod.riaxo_ingot_block": "Riaxo Ingot Block",
+
+  "block.jmod.riaxo_log": "Riaxo Log",
+
+  "block.jmod.riaxo_planks_door": "Riaxo Planks Door",
+
+  "block.jmod.riaxo_planks_trapdoor": "Riaxo Planks Trapdoor",
+
+
+
+
+  "itemGroup.JModTab" : "Jhey Items"
+}

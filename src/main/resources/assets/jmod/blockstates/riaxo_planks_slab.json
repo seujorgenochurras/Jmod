@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "jmod:block/riaxo_planks_slab"
+    },
+    "type=double": {
+      "model": "jmod:block/riaxo_planks"
+    },
+    "type=top": {
+      "model": "jmod:block/riaxo_planks_slab_top"
+    }
+  }
+}

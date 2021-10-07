@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "jmod:raw_riaxo"
+  },
+  "result": "jmod:riaxo_nugget",
+  "experience": 1.5,
+  "cookingtime": 15,
+  "count": 3
+}

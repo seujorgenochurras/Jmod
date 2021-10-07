@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jmod:riaxo_xp"
+    }
+  ],
+  "result": {
+    "item": "minecraft:experience_bottle",
+    "count": 16
+  }
+}

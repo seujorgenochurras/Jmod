@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top",
+  "textures": {
+    "top": "jmod:block/riaxo_planks_door_top",
+    "bottom": "jmod:block/riaxo_planks_door_bottom"
+  }
+}

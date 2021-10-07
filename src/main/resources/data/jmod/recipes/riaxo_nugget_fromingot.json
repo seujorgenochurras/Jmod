@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jmod:riaxo_ingot"
+    }
+  ],
+  "result": {
+    "item": "jmod:riaxo_nugget",
+    "count": 9
+  }
+}

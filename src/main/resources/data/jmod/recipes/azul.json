@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "S#S",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "jmod:riaxo_planks"
+    },
+    "#": {
+      "item": "minecraft:apple"
+    }
+
+    },
+
+    "result": {
+      "item": "jmod:azul",
+      "count": 1
+    }
+
+}

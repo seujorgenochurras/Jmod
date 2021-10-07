@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "jmod:riaxo_planks"
+    }
+  },
+  "result": {
+    "item": "jmod:riaxo_planks_slab",
+    "count": 3
+
+  }
+}
